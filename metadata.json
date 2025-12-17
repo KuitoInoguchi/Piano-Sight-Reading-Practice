@@ -1,0 +1,5 @@
+{
+  "name": "Piano Sight Reader",
+  "description": "A focused sight-reading practice tool. Identify the displayed note on a 3-octave virtual piano. Features instant visual feedback and audio synthesis.",
+  "requestFramePermissions": []
+}
